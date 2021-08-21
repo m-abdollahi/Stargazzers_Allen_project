@@ -19,6 +19,10 @@ so we have 3 different notebook:
 * Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells
 </br>
 What about Our Machine learning techniques? we used :
+* Predicting Novility vs familiarity based on VIP cells
+* Predicting Novility vs familiarity based on SST cells
+* Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells
+
 * Logistic Regression
 * Logistic Regression
 * Random Forest
