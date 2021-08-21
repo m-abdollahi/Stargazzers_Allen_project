@@ -1,1 +1,1 @@
-# Stargazzers Allen Calcium project
+# Allen Calcium imaging project
