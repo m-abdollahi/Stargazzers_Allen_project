@@ -14,9 +14,9 @@ Data that we used in this project is for Allen Institute Calcium imagig dataset 
 ## Notebooks
 we used ML techniques to find meaningfull relationship between different Neural activity and stimuluses (Novel or Familiar Pictures!) \
 so **we have 3 different notebook:**
-* Predicting Novility vs familiarity based on VIP cells
-* Predicting Novility vs familiarity based on SST cells
-* Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells
+* [Predicting Novility vs familiarity based on VIP cells](https://github.com/m-abdollahi/Stargazzers_Allen_project/tree/main/notebooks)
+* [Predicting Novility vs familiarity based on SST cells](https://github.com/m-abdollahi/Stargazzers_Allen_project/tree/main/notebooks)
+* [Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells](https://github.com/m-abdollahi/Stargazzers_Allen_project/tree/main/notebooks)
 
 **What about Our Machine learning techniques?** we used :
 
