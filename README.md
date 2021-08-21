@@ -19,8 +19,4 @@ so we have 3 different notebook:
 * Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells
 </br>
 **What about Our Machine learning techniques?** we used :
-* Logistic Regression
-* Random Forest
-* Linead Discrimination Analyze
-* Deep Neural Network
-* Ensemble Models
+
