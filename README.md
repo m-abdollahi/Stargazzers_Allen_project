@@ -1,4 +1,4 @@
-# Allen Calcium imaging project
+# Machine learning Approach in calcium imaginf
 ## Requirements
 * Numpy
 * Matplotlib
