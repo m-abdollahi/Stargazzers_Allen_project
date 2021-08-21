@@ -20,7 +20,7 @@ so we have 3 different notebook:
 </br>
 *What about Our Machine learning techniques?* we used :
 * Logistic Regression
-* Linead Discrimination Analyze
 * Random Forest
+* Linead Discrimination Analyze
 * Deep Neural Network
 * Ensemble Models
