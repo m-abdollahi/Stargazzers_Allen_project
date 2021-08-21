@@ -13,12 +13,12 @@ Data that we used in this project is for Allen Institute Calcium imagig dataset 
 * sklearn
 ## Notebooks
 we used ML techniques to find meaningfull relationship between different Neural activity and stimuluses (Novel or Familiar Pictures!) \
-so we have 3 different notebook:
+so **we have 3 different notebook:**
 * Predicting Novility vs familiarity based on VIP cells
 * Predicting Novility vs familiarity based on SST cells
 * Predicting Rewarded vs Not Rewarded trials based on SST and VIP cells
 
-What about Our Machine learning techniques? we used :
+**What about Our Machine learning techniques?** we used :
 
 * Logistic Regression
 * Random Forest
