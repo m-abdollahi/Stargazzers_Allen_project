@@ -1,4 +1,4 @@
-# Machine learning Approach in calcium imaging!
+# Machine learning Approach for calcium imaging!
 this project is about using different machine learning techniques (Classic ML alghorithms, Deep learning, Ensemble learning, ...) in calcium imaganing data. \
 </br>
 Data that we used in this project is for Allen Institute Calcium imagig dataset that is about V1,SST and VIP interneurons. \
